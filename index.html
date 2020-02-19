@@ -3,12 +3,12 @@ layout: default
 title: Home
 ---
 
-<div class="article">
+<h1>All Posts</h1>
+<ul class="post-list">
   {% for post in site.posts %}
-  <ul class="main-post">
-    <a href="{{ post.url }}">{{ post.title }}</a>
+  <li>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     {{ post.excerpt }}
-  </ul>
+  </li>
   {% endfor %}
-</div>
-
+</ul>

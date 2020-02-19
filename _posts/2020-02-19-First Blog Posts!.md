@@ -1,5 +1,4 @@
 ---
-layout: post
 title: First Blog Posts!
 ---
 
@@ -8,5 +7,5 @@ Excerpt testing...
 
 <!--more-->
 
-# Hello, World!
+## Hello, World!
 It's my first blog post!

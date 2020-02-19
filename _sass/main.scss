@@ -1,0 +1,59 @@
+body {
+    font-family: Helvetica;
+    font-weight: 300;
+}
+
+ul {
+    padding: 0px;
+}
+
+@mixin divider {
+    border-bottom: 1px solid #DCDCDC;
+    padding-bottom: 10px;
+}
+
+.divider {
+    border-bottom: 1px solid #DCDCDC;
+    padding-bottom: 15px;
+    margin-bottom: 40px;
+}
+
+@mixin center {
+    margin: auto;
+}
+
+.article {
+    @include center;
+    max-width: 750px;
+}
+
+@mixin none-deco-a {
+    text-decoration-line: none;
+    color: inherit;
+}
+
+
+.navigation {
+    @include center;
+    max-width: 750px;
+}
+
+.navigation a {
+    @include none-deco-a;
+    margin-right: 6px;
+    font-size: large;
+}
+
+.main-post {
+    margin-bottom: 24px;
+}
+
+.main-post p {
+    margin: 5px 0px;
+}
+
+.main-post a {
+    @include none-deco-a;
+    font-size: 24px;
+    font-weight: bold;
+}

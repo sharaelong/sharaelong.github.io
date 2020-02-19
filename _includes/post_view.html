@@ -1,0 +1,11 @@
+---
+---
+
+<ul>
+  {% for post in site.posts %}
+  <ul>
+    <h2><a class="post-title" href="{{ post.url }}">{{ post.title }}</a></h2>
+    <p class="post-subtitle">{{ post.excerpt }}</p>
+  </ul>
+  {% endfor %}
+</ul>

@@ -3,7 +3,7 @@ layout: post
 title: First Blog Posts!
 ---
 
-Excerpt testing... 
+Excerpt testing...  
 ...It works Well!
 
 <!--more-->

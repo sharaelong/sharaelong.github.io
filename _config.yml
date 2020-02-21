@@ -3,6 +3,8 @@ description: Blog about my program development, etc...
 url: https://sharaelong.github.io
 author: kijun Shin
 
+markdown: CommonMarkGhPages
+
 collections:
   authors:
     output: true

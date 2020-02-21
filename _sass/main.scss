@@ -15,6 +15,13 @@ body {
     padding: 0;
 }
 
+hr {
+    border-color: #DCDCDC;
+    margin-block-start: 2em;
+    margin-block-end: 2em;
+}
+    
+
 h1 {
     font-size: 1.5rem;
 }
@@ -59,7 +66,7 @@ nav li {
 }
 
 nav a {
-    margin-right: 8px;
+    margin-right: 12px;
     font-size: large;
 }
 

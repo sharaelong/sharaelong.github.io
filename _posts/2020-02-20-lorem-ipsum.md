@@ -5,6 +5,17 @@ title: Lorem Ipsum
 "There is no one who loves pain itself, who seeks after it
 and wants to have it, simply because it is pain..."
 
+<!--more-->
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+---
+**Table of Contents**
+
+- [What is Lorem Ipsum?](#what-is-lorem-ipsum)
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+---
+
 ## What is Lorem Ipsum?
 
 **Lorem Ipsum** is simply dummy text of the printing and typesetting

@@ -244,6 +244,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
+  jekyll-commonmark-ghpages
   jekyll-feed
 
 BUNDLED WITH
